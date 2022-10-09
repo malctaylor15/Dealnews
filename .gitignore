@@ -1,3 +1,5 @@
 Dealnews\ Images
 .ipynb*
 data
+dealnews.db
+*.db
